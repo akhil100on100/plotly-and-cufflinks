@@ -1,2 +1,2 @@
-# python-data_visualization-
-This floder conatins information about python visualization libraries
+# plotly-and-cufflinks
+This floder conatins information about plotly and dcufflinks
